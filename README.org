@@ -1,0 +1,10 @@
+* file-types
+
+Simple scheme to classify file types in a hierarchical fashion. Includes support for associating and querying MIME types.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eugeneia/file-types.git   |
+| commit  | 6f5676b  |
+| systems | file-types |
+|---------+-------------------------------------------|
+
